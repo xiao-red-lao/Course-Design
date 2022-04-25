@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="897ce612-c774-48fe-bbfe-8bcbb285f9d3" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="9269711d-3ab2-46c2-9e31-6fb6dde0a867" />
+  <component name="ProjectId" id="1goXNYgWEAfKEvewAKELECj0Aaw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/buybook" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myAttachToSubprocess" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zqf\Desktop\shiyan\maishu" />
+      <recent name="C:\Users\zqf\Desktop\shiyan" />
+      <recent name="C:\Users\zqf\Desktop\shiyan\baseinfo\sys" />
+      <recent name="C:\Users\zqf\Desktop\shiyan\system" />
+      <recent name="C:\Users\zqf\Desktop\shiyan\buybook" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zqf\Desktop\shiyan\buybook" />
+      <recent name="C:\Users\zqf\Desktop\shiyan\service" />
+      <recent name="C:\Users\zqf\Desktop\shiyan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mylogin">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python">
+      <module name="shiyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\zqf\Desktop\shiyan\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\zqf\Desktop\shiyan\zhiqian\Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="buybook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shiyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buybook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buybook/buybook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mybuy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shiyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buybook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buybook/mybuy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mylogin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shiyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mylogin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mymain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shiyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mymain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mymaishu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shiyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maishu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maishu/mymaishu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.buybook" />
+      <item itemvalue="Python.mybuy" />
+      <item itemvalue="Python.mylogin" />
+      <item itemvalue="Python.mymain" />
+      <item itemvalue="Python.mymaishu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mylogin" />
+        <item itemvalue="Python.mymain" />
+        <item itemvalue="Python.buybook" />
+        <item itemvalue="Python.mybuy" />
+        <item itemvalue="Python.mymaishu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="897ce612-c774-48fe-bbfe-8bcbb285f9d3" name="默认更改列表" comment="" />
+      <created>1597892514925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597892514925</updated>
+      <workItem from="1598781881407" duration="974000" />
+      <workItem from="1607575434462" duration="418000" />
+      <workItem from="1608957182622" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="113" key="#Main" timestamp="1638718407041">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="438" y="113" key="#Main/0.0.1440.929@0.0.1440.929" timestamp="1638718407041" />
+    <state x="176" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638718455754">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="176" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.929@0.0.1440.929" timestamp="1638718455754" />
+    <state x="472" y="273" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638948356827">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="472" y="273" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.929@0.0.1440.929" timestamp="1638948356827" />
+    <state x="427" y="189" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1638943430347">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="427" y="189" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.929@0.0.1440.929" timestamp="1638943430347" />
+    <state x="451" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639077916016">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="451" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.929@0.0.1440.929" timestamp="1639077916016" />
+    <state x="420" y="328" key="#com.intellij.tools.ToolEditorDialog" timestamp="1638947345689">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="420" y="328" key="#com.intellij.tools.ToolEditorDialog/0.0.1440.929@0.0.1440.929" timestamp="1638947345689" />
+    <state x="438" y="113" key="#sorsub" timestamp="1638758777837">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="438" y="113" key="#sorsub/0.0.1440.929@0.0.1440.929" timestamp="1638758777837" />
+    <state x="427" y="239" width="792" height="664" key="FileChooserDialogImpl" timestamp="1638946678588">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="427" y="239" width="792" height="664" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1638946678588" />
+    <state width="709" height="230" key="GridCell.Tab.0.bottom" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.0.center" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.0.left" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.0.right" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.1.bottom" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.1.bottom/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.1.center" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.1.center/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.1.left" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.1.left/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state width="709" height="230" key="GridCell.Tab.1.right" timestamp="1639124986297">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="709" height="230" key="GridCell.Tab.1.right/0.0.1440.929@0.0.1440.929" timestamp="1639124986297" />
+    <state x="150" y="126" key="SettingsEditor" timestamp="1639037048409">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="150" y="126" key="SettingsEditor/0.0.1440.929@0.0.1440.929" timestamp="1639037048409" />
+    <state x="165" y="159" width="1058" height="660" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1639088062499">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="165" y="159" width="1058" height="660" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.929@0.0.1440.929" timestamp="1639088062499" />
+    <state x="417" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1639125599559">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="417" y="292" key="com.intellij.ide.util.TipDialog/0.0.1440.929@0.0.1440.929" timestamp="1639125599559" />
+    <state x="463" y="112" key="refactoring.ChangeSignatureDialog" timestamp="1639077656550">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="463" y="112" key="refactoring.ChangeSignatureDialog/0.0.1440.929@0.0.1440.929" timestamp="1639077656550" />
+    <state x="383" y="198" width="672" height="678" key="search.everywhere.popup" timestamp="1638754930558">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="383" y="198" width="672" height="678" key="search.everywhere.popup/0.0.1440.929@0.0.1440.929" timestamp="1638754930558" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="num" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

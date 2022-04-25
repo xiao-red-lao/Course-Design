@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>386</width>
+    <height>244</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>用户信息维护</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QSplitter" name="splitter">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QLabel" name="userinfo">
+       <property name="text">
+        <string>用户信息展示</string>
+       </property>
+      </widget>
+      <widget class="QTextBrowser" name="textBrowser"/>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QSplitter" name="splitter_2">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QLabel" name="pwd">
+       <property name="text">
+        <string>修改</string>
+       </property>
+      </widget>
+      <widget class="QComboBox" name="comboBox">
+       <item>
+        <property name="text">
+         <string>姓名</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>用户名</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>密码</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>性别</string>
+        </property>
+       </item>
+      </widget>
+      <widget class="QLineEdit" name="pwdwrite"/>
+      <widget class="QPushButton" name="pwdbtn">
+       <property name="text">
+        <string>修改</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

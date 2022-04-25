@@ -1,0 +1,34 @@
+from tkinter import *
+import tkinter as tk
+
+
+class MAIN:
+    def __init__(self):
+        #新建窗口为root
+        root = tk.Tk()
+        root.title('zqf is trying')
+
+        #登录界面，用frame1
+        frame1 = Frame(root)
+        frame1.grid(row=0,column=0)
+        Label(frame1, text='账号:').grid(row=0)
+        Label(frame1, text='密码:').grid(row=1)
+        # Label(frame1, text='年龄:').grid(row=2)
+        # Label(frame1, text='性别:').grid(row=3)
+        # Label(frame1, text='班级:').grid(row=4)
+        # Label(frame1, text='电话:').grid(row=5)
+        # Label(frame1, text='地址:').grid(row=6)
+        user = Entry(frame1, textvariable=StringVar())
+        password = Entry(frame1, textvariable=StringVar())
+        user.grid(row=0, column=1, padx=10, pady=10)
+        password.grid(row=1, column=1, padx=20, pady=5)
+
+        #管理员账号，用frame2
+        frame2 = Frame(root)
+        frame2.grid(row=1, column=0)
+        label2 = Label(frame2, text='456')
+        label2.grid(row=0, column=0)
+
+        mainloop()
+if __name__=='__main__':
+    MAIN()
